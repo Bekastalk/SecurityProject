@@ -1,5 +1,6 @@
 package peaksoft.dto;
 
+import peaksoft.Role;
 import peaksoft.entity.User;
 
 public record UserRequest(
